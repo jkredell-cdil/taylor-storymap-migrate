@@ -1,0 +1,118 @@
+---
+title: "Bibliography"
+order: 13
+---
+
+## Bibliography
+This is a list of the resources used to support the information found in this Story Map.
+
+- **1** Hartung, John Wiley. “Documentation of Historical Resources in the Idaho Primitive Area, Big Creek Drainage.” Thesis, University of Idaho, 1978.
+- **2** Lewis, Dave. Cougar Dave’s  Papers.  University of Idaho Library, Special Collections and Archives. David (Cougar Dave) Lewis Papers. 1879-1936.
+- **3** Peek, Pat Cary. *Cougar Dave: Mountain Man of Idaho, 1855-1936*. Moscow, ID: Ninebark Publications, 2004.
+- **4** Baird, Dennis, and Lynn Baird. “A Campfire Vision: Establishing the Idaho Primitive Area.” *Journal of the West* 26 (July 1987): 50–58.
+- **5** McCarthy, Patrick. River Of No Return Wilderness Proposals, Hearings Before The Subcommittee On Parks, Recreation And Renewable Resources Of The Committee On Energy And Natural Resources. United States Senate, Ninety-Sixth Congress. First Session on S. 95, S.96, 2.97, 1979.
+- **6** “Frank Church River of No Return Wilderness.” Forest Service. United States Department of Agriculture. Accessed 2020. https://www.fs.usda.gov/detail/scnf/specialplaces/?cid=stelprdb5360033.
+- **7** Akenson, James. *Ninety Years of Taylor Ranch History*. March, 1991.
+- **8** Hendee, John C, Jeffrey J Yeo, Vito (Sonny) LaSalle, and James Akenson. Ms. *The University of Idaho Taylor Ranch Wilderness Field Station*. Moscow, 1993.
+- **9** Hornocker, Maurice. Letter to Mr. & Mrs Taylor. “The Selling of Taylor Ranch.” McCall, Idaho: Taylor Ranch, March 10, 1966.
+- **10** Gary, Debbie. “Flying the Mail in Remote Idaho.” *Air & Space*. Smithsonian, October 2017. https://www.airspacemag.com/flight-today/air-mail-pilots-in-remote-idaho-180964754/.
+- **11** Fordyce, Claude P. *Outdoor Life Magazine*, 1925.
+- **12** Akenson, Holly. “From the Frying Pan into the Fire.” Essay. In *7003 Days*, 221. Caldwell, ID: Caxton Press, 2016.
+- **13** Rugenski, Amanda T., and G. Wayne Minshall. “Climate-Moderated Responses to Wildfire by Macroinvertebrates and Basal Food Resources in Montane Wilderness Streams.” *Ecosphere* 5, no. 3 (March 2014). https://doi.org/10.1890/es13-00236.1.
+- **14** Finklin, Arnold I. “Climate of the Frank Church-River of No Return Wilderness, Central Idaho.” *United States Department of Agriculture Forest Service Intermountain Research Station.* *General Technical Report INT*-*240 (1988). https://doi.org/10.2737/int-gtr-240.
+- **15** “Taylor Wilderness Research Station.” Taylor Wilderness Research Station - College of Natural Resources | University of Idaho. University of Idaho. Accessed July 10, 2020. https://www.uidaho.edu/cnr/taylor-wilderness-research-station.
+- **16** Seidensticker, John C, Maurice G Hornocker, Wilbur V Wiles, and John P Messick. “Mountain Lion Social Organization in the Idaho Primitive Area.” *Wildlife Monographs*, 35, December 1973, 3–60. https://www.jstor.org/stable/3830509.
+- **17** “Maurice Hornocker, PhD.” Wildscapes Foundation. Accessed July 16, 2020. https://www.wildscapesfoundation.org/ace-award/judges/maurice-hornocker-phd.
+- **18** Hayward, Gregory D, and Edward O Garton. “Roost Habitat Selection by Three Small Forest Owls.” *The Wilson Bulletin* 96, no. 4 (December 1984): 690–92.
+- **19** Wright, Anthony L, and Gregory D Hayward. “Barred Owl Range Expansion Into The Central Idaho Wilderness.” *The Journal of Raptor Research* 32, no. 2 (June 1998): 77–81. https://sora.unm.edu/sites/default/files/journals/jrr/v032n02/p00077-p00081.pdf.
+- **20** Tank, Susan L, and Winifred B Sidle. “Habitat Relationships of Wintering Passerines in the River of No Return Wilderness Area of Central Idaho.” *Northwest Science* 60, no. 4 (1986): 238–42.
+- **21** Akenson, Jim. “Bighorn Sheep: Our Canyon Neighbors.” Essay. In *7003 Days*, 94. Caldwell, ID: Caxton Press, 2016.
+- **22** Koehler, Gary M, and Maurice G Hornocker. “Seasonal Resource Use Among Mountain Lions, Bobcats, and Coyotes.” *Journal of Mammalogy* 72, no. 2 (May 1991): 391–96. https://doi.org/10.2307/1382112.
+- **23** Poole, Josh. Regional Fishery Biologist
+- **24** Poole, Josh. “Monitoring the Entire Journey of Wild Chinook Salmon.” Web log. *Idaho Department of Fish and Game* (blog), November 1, 2019. https://idfg.idaho.gov/blog/2019/11/monitoring-entire-journey-wild-chinook-salmon.
+- **25** Poole, J. "Distance won't stop us: Monitoring salmon and steelhead in the middle of the Frank Church wilderness." Web log. *Idaho Department of Fish and Game* (blog),             July 30, 2020         https://idfg.idaho.gov/blog/2020/07/distance-wont-stop-us-monitoring-salmon-and-steelhead-middle-frank-church-wilderness
+- **26** Idaho Public Television. Outdoor Idaho
+- **27** Trueblood, Ted. “The Five Year Lion Hunt.” *Field and Stream* 74, no. 10, February 1970.
+- **28** Coffin, Patricia. “Stan and Joy Potts Are a Frontier-Style Team Partnership.” *LIFE, The Marriage Experiments* 72, no. 16, April 1972.
+- **29** Don, Vachini. “Idaho's River of No Return.” *Salmon Trout Steelheader*, 1988.
+- **30** “Semester In The Wild.” Semester In The Wild - College of Natural Resources | University of Idaho. University of Idaho, College of Natural Resources. Accessed July 14, 2020. https://www.uidaho.edu/cnr/semester-in-the-wild.
+- **31** “McCall Outdoor Science School (MOSS).” McCall Outdoor Science School (MOSS) | University of Idaho. University of Idaho, College of Natural Resources. Accessed July 11, 2020. https://www.uidaho.edu/cnr/mccall-outdoor-science-school.
+- **32** Payne, Claire, J M Bowker, and Patrick C Reed. “Proceedings of the Conference.” *The Economic Value of Wilderness* 78, 78:313–21. Asheville, NC: United States Department of Agriculture, Forest Service, 1991.
+- **33** Cooper, Leigh. The Vandal Theory. Season 3, Episode 3: Teresa Cavazos Cohn - Combining Science and the Arts. Podcast audio, November 2020. https://www.uidaho.edu/news/the-vandal-theory?utm_campaign=the-vandal-theory
+- **34** Historic Preservation Plan For the Frank Church – River of No Return Wilderness. Report Number: SL-11-1622 R2011041300020. (2016). Retrieved from https://winapps.umt.edu/winapps/media2/wilderness/toolboxes/documents/cultural/FC-RONRW_HPP.pdf
+- **35** History. Retrieved March 01, 2021, from https://nezperce.org/about/history/
+- **36** Government Services - Natural Resources. Retrieved March 01, 2021, from https://nezperce.org/government/natural-resources/
+- **37** Mvundura, H. (2004). *The Tukudika of Big Creek* (Unpublished senior internship report). University of Idaho.
+- **38** Kingsbury, L. A., & Frye, J. (2002). *Archaeological Site Testing At Coyote Springs (10IH197/PY-679)* (Krassel Ranger District Frank Church - River of No Return Wilderness, 2002). McCall, ID: Heritage Program Payette National Forest U.S. Department of Agriculture Intermountain Region.
+- **39** Leonhardy, F., & Koehler, G. (1985). *Mountain Sheep and Human Predation: Forager Adaptations in the Salmon River Mountains*. University of Idaho.
+- **40** About - Culture and History. Retrieved March 01, 2021, from http://www2.sbtribes.com/about/
+- **41** Lankard, A. (1999). *The University of Idaho's Taylor Ranch and its relationship to the Frank Church-River of No Return Wilderness*. University of Idaho.
+- **Figure 1** National Oceanic and Atmospheric Administration (NOAA). NOAA Photos 2005&2005, IMG_0010TaylorRanch. 2005. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 2** Photographer Unknown. TRPictoOV. 2004. Retrieved from Taylor Wilderness Research Station Archives
+- **Figure 3** United States Forest Service, Payette NF. Historical Images from Payette NF, Mark_Schreiter, p-28. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 4** Photographer Unknown. *Dave Lewis with two dogs*. 1931. Retrieved from University of Idaho Library. Special Collections and Archives. David (Cougar Dave ) Lewis Papers.
+- **Figure 5** Photographer Unknown. *Dave Lewis in front of cabin*. 1931. Retrieved from University of Idaho Library. Special Collections and Archives. David (Cougar Dave ) Lewis Papers.
+- **Figure 6** Photographer Unknown. *Dave Lewis with with dog and cat*. 1931. Retrieved from University of Idaho Library. Special Collections and Archives. David (Cougar Dave ) Lewis Papers.
+- **Figure 7** Photographer Unknown. *The beautiful Dave Lewis Cabin*. 2012. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 8** Tunison, Henry Cuthbert. *Idaho and Western Montana. *Scale* *1:3,168,000. Jacksonville, IL. H.C. Tunison, 1885.
+- **Figure 9-10** Hendee, John C, Jeffrey J Yeo, Vito (Sonny) LaSalle, and James Akenson. Ms. *The University of Idaho Taylor Ranch Wilderness Field Station*. Moscow, 1993.
+- **Figure 11** Photographer Unknown. Taylor Sign. 2014. Retrieved from McCall Outdoor Science School Archives.
+- **Figure 12** Brumble, Amie-June. *Autumn at Taylor*. 2012. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 13** University of Idaho. *View of Taylor Wilderness Research Station *. *McCall Outdoor Science School (MOSS)*. University of Idaho, College of Natural Resources, 2014. https://www.uidaho.edu/cnr/mccall-outdoor-science-school/programs-and-services/graduate-program/wilderness-immersion.
+- **Figure 14** Akenson, Jim. Back Cover Image. Retrieved from *7003 Days*. Caldwell, ID: Caxton Press, 2016.
+- **Figure 15** Lankford, Amber*. Amie-June Brumble & Tyler Morrison*. 2011. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 16** Photographer Unknown. Peter Gag. 2020. Retrieved from [https://www.uidaho.edu/cnr/taylor-wilderness-research-station](https://www.uidaho.edu/cnr/taylor-wilderness-research-station)
+- **Figure 17** Photographer Unknown. Meg Gag. 2020. Retrieved from [https://www.uidaho.edu/cnr/taylor-wilderness-research-station](https://www.uidaho.edu/cnr/taylor-wilderness-research-station)
+- **Figure 18** Photographer Unknown. Profile Pictures, Bighorn Sheep.2015. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 19** Photographer Unknown. *Timeline Photos*, Western Rattlesnake. 2014. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 20** Photographer Unknown. *Timeline Photos*, Mountain Lion. 2017. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 21** O'Connor, Crista. *Local Flora*, Silvery Lupine. 2011. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 22** Photographer Unknown. *Timeline Photos*, Golden Eagle. 2014. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 23** Photographer Unknown. TWRS People Photos, IMG_1698_edited042. 2008. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 24** Photographer Unknown. *Timeline Photos*, Rufous Hummingbird. 2014. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 25** Photographer Unknown. p5181390_edited-copy, Wolf & Balsamroot. 2006. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 26** O'Connor, Crista. TAY3 425, Western Tanager. 2011. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 27** Gag, Peter. *Timeline Photos*, Elk. 2014. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 28** Photographer Unknown. *Summer 2012 TWRS*, Blue Grouse. 2012. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 29** Photographer Unknown. *Summer 2012 TWRS*, Cutthroat Trout. 2012. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 30** Photographer Unknown. *Winter at Taylor*, River Otters. 2011. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 31** Photographer Unknown. *Semester in the Wild 2013 Visit by DeVlieg Foundation*, Blue Elderberry. 2013. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 32** Krumpe, Edwin & Robberecht, R. Taylor Ranch Wilderness Field Station remains an island of green surrounded by blackened forests. 2000. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 33** Petrini, Micaela & USFS Holm Collection. Cabin Creek_1971_USFS. 1971.
+- **Figure 34** Akenson, Jim. Weather station with INEL person, atmospheric station, and Holly Akenson. Date Unknown. Retrieved from Akenson Collection
+- **Figure 35** Photographer Unknown. *Timeline Photos*, Research. 2019. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 36** Hornocker, Maurice G. “Stalking the Mountain Lion - to Save Him.” *National Geographic* 136, no. 5, November 1969.
+- **Figure 37** Weigley, Alison. DSC_0367. 2011. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 38** Photograpyer Unknown. *TWRS General History, Greg Hayward, Boreal Owl Study*. 1981. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 39** Photographer Unknown. *Local Wildlife*, Stellar Jay. 2012. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 40** Cone, Landon C. Moore. *Winter at Taylor, 2011, 2012, Bighorn Sheep on the Benches*. 2011. Retrieved from Taylor Wilderness Research Station Facebook.
+- **Figure 41** Hendee, John C, Jeffrey J Yeo, Vito (Sonny) LaSalle, and James Akenson. Ms. *The University of Idaho Taylor Ranch Wilderness Field Station*. Moscow, 1993.
+- **Figure 42-44** Fulton, Ruby. *Wilderness Suite*. 2019.
+- **Figure 45** Photographer Unknown. TWRS Research Photos, DSC02250. 2007. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 46** Poole, Josh. *Implanting a PIT Tag into a Wild Chinook Salmon at the South Fork Salmon River Rotary Screw Trap. Notice the PIT Tag, the Glass Capsule, Protruding from the Needle.* 2019. *Idaho Department of Fish and Game*. https://idfg.idaho.gov/blog/2019/11/monitoring-entire-journey-wild-chinook-salmon.
+- **Figure 47** Wilson, Hannah. Big Creek Chinook Estimates Per Year. 2020. Microsoft Excel (2013).
+- **Figure 48** Wilson, Hannah. Big Creek Steelhead Estimates Per Year. 2020. Microsoft Excel (2013).
+- **Figure 49** Photographer Unknown. Landing GIF 2014. Retrieved from McCall Outdoor Science School Archives.
+- **Figure 50** *Wildlife Resources. University of Idaho. Dr. Maurice Hornocker and Mountain Lion in the Central Idaho Primitive Area. [255-4]*. University of Idaho, Digital Initiatives, 1968. https://digital.lib.uidaho.edu/digital/collection/pg1/id/2866.
+- **Figure 51** Payette National Forest. *DS, Nat'l Geographic down the Salmon*. 1935. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 52** Wilson, Hannah. View of Big Creek looking east toward the Middle Fork. August 16, 2020.
+- **Figure 53** Trueblood, Ted. “The Five Year Lion Hunt.” *Field and Stream* 74, no. 10, February 1970.
+- **Figure 54-56** Coffin, Patricia. “Stan and Joy Potts Are a Frontier-Style Team Partnership.” *LIFE, The Marriage Experiments* 72, no. 16, April 1972.
+- **Figure 57** Gag, Peter. *Cover Photos*. 2014. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 58** University of Idaho. *Students Spend Semester 'Abroad' in Frank Church-River of No Return Wilderness*. 2014. *Missoulian*. https://missoulian.com/news/state-and-regional/students-spend-semester-abroad-in-frank-church-river-of-no-return-wilderness/article_d206eeac-761c-11e3-a558-001a4bcf887a.html.
+- **Figure 59** Photographer Unknown.* McCall Outdoor Science School Campus*. 2014. Retrieved from McCall Outdoor Science School Archives.
+- **Figure 60** Photographer Unknown. *Mobile Uploads*, Gathering Data. 2019. Retrieved from McCall Outdoor Science School Archives.
+- **Figure 61** Photographer Unknown. *Timeline Photos*, Fire Prep and Preparedness. 2013. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 62** Photographer Unknown. *Summer 2012 TWRS, View from Cave Creek cave*. 2012. Retrieved from Taylor Wilderness Research Station Facebook Page.
+- **Figure 63** Photographer Unknown. *Frank Leonhardy and excavation*. 1984. Retrieved from Taylor Wilderness Research Station Archives.
+- **Figure 64** Dixon, Gayle. *Dukudeka Basket collected on Big Creek in 1879 by Timothy E. Wilcox*. 2020. Taken at the Smithsonian.
+- **Recording 1** icarus Quartet. *Wilderness Suite*. MP3. Ruby Fulton, 2019.
+- **Recording 2** Fowle, Allison. “Franked”. the Dirtbag Diaries. Podcast audio, February 28, 2020. [https://dirtbagdiaries.com/the-shorts-franked/](https://dirtbagdiaries.com/the-shorts-franked/).
+- **Recording 3** Fowle, Allison. “Social Creatures”. Out There. Podcast audio, November 28, 2019. [https://www.outtherepodcast.com/episodes/2019/11/21/social-creatures](https://www.outtherepodcast.com/episodes/2019/11/21/social-creatures)
+- **Recording 4** Cooper, Leigh. The Vandal Theory. Season 3, Episode 3: Teresa Cavazos Cohn - Combining Science and the Arts. Podcast audio, November 2020. https://www.uidaho.edu/news/the-vandal-theory?utm_campaign=the-vandal-theory
+- **Video 1** *Taylor From the Air*. *Taylor Wilderness Research Station *. University of Idaho, College of Natural Resources, 2018.
+- **Video 2** *Cessna 206 Flight From Taylor Wilderness Research Station to Cabin Creek, FCRONR Wilderness*. Amie June Brumble, 2008. https://www.youtube.com/watch?time_continue=8&v=lCfmL1hX_M0&feature=emb_logo.
+- **Video 3** University of Idaho. *Understanding Wilderness I The Confluence Lab*. University of Idaho, 15 Oct. 2020, https://www.youtube.com/watch?v=ypAUYjbRSGY.
+- **Video 4** *The Frank*. *Outdoor Idaho*. Public Broadcasting Service, 2015. https://www.pbs.org/video/outdoor-idaho-frank/.
+- **Video 5** *Discover America's Wildest Classroom: Taylor Wilderness Research Station*. University of Idaho, College of Natural Resources, 2011. https://www.youtube.com/watch?v=ji7Mj1SMBOk.
+- **Video 6** Gag, Pete. *Night Sky Time Lapse*. 2016. Retrieved from Taylor Wilderness Research Station Archives
