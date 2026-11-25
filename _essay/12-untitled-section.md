@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Current Happenings"
 order: 12
 ---
 

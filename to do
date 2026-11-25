@@ -1,0 +1,7 @@
+set up new cb-essay project
+add the stuff I exported
+add the objects from onedrive I sent you
+run rake generate_derivatives on the objects
+work on the metadata csv (I think a lot of it is blank, and you will need to fill in the new object_location, image_small, image_thumb that you generate). it also may be that some items are already actually from the taylor-archive collection and metadata should be drawn from there, and you can use the existing image links for those items
+work on the content pages, replacing the comments with includes and making sense of how to set it up. ignore any complicated map feature for now
+map features might be another step--some can be recreated easily from the geojson exports, some might be embeds (if really complicated), some might not be a map feature (like could be an image instead?) not sure
