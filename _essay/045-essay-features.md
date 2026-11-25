@@ -1,7 +1,7 @@
 ---
 title: Essay Writing Features
 order: 40
-part: Documentation
+part: 
 ---
 
 CB-Essay provides specialized includes that extend Markdown for scholarly writing. This essay **demonstrates every feature** with working examples you can copy directly into your own work.

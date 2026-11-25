@@ -1,7 +1,7 @@
 ---
 title: Scroll-Based Features
 order: 45
-part: Documentation
+part: 
 ---
 
 CB-Essay's scrollytelling blocks pin an image (or map) in the viewport while narrative panels scroll over or beside it. Every block follows the same three-include pattern:
